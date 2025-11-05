@@ -13,7 +13,12 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, SwiftUI!")
+            
+            Button("タップして下さい"){
+                print("ボタンがタップされました")
+            }
+            .buttonStyle(.borderedProminent)
         }
         .padding()
     }

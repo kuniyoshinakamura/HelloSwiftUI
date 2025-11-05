@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		CFECA5202EBACA8000B060C8 /* HelloSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFECA52E2EBACCB000B060C8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		CFECA5172EBACA8000B060C8 = {
 			isa = PBXGroup;
 			children = (
+				CFECA52E2EBACCB000B060C8 /* README.md */,
 				CFECA5222EBACA8000B060C8 /* HelloSwiftUI */,
 				CFECA5212EBACA8000B060C8 /* Products */,
 			);
